@@ -20,4 +20,4 @@ python draw_heat_map.py
 </p>
 
 #### Heat map 
-<img src="../fig/Fig_2.png" width="200" title="hover text">
+<img src="../fig/FIg_2.png" width="200" title="hover text">
